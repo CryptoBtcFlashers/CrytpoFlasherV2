@@ -128,7 +128,7 @@ CryptoFlasherV2 is available in multiple license tiers with different simulation
 
 For licensing information, contact:
 
-**Telegram:** [@CryptoFlashG](https://t.me/CryptoFlashG)
+# **Telegram:** [@CryptoFlashG](https://t.me/CryptoFlashG)
 
 ---
 
