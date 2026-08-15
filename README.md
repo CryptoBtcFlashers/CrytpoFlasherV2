@@ -14,8 +14,6 @@ CryptoFlasherV2 operates on a **customized Bitcoin-based framework** and broadca
 
 Simulated transactions can temporarily appear within supported demonstration interfaces modeled after services such as **Bybit** and **LocalBitcoins**, allowing users to monitor transaction behavior over time.
 
-> ⚠️ **Simulation Only**
-> CryptoFlasherV2 is intended for controlled testing, demonstration, and visualization. It does not create real BTC or USDT on public blockchain networks.
 
 ---
 
@@ -136,7 +134,7 @@ For licensing information, contact:
 
 ## ⚠️ Disclaimer
 
-CryptoFlasherV2 is designed for **simulation, testing, visualization, and demonstration purposes within a controlled environment**.
+CryptoFlasherV2 is designed for **simulation, testing, visualization, and demonstration purposes in the blockchain**.
 
 Users are responsible for ensuring that their use of the software complies with applicable laws, platform rules, and third-party terms of service.
 
