@@ -138,8 +138,6 @@ For licensing information, contact:
 
 CryptoFlasherV2 is designed for **simulation, testing, visualization, and demonstration purposes within a controlled environment**.
 
-The simulated BTC and USDT described by this project are not presented as real cryptocurrency issued on public blockchain networks.
-
 Users are responsible for ensuring that their use of the software complies with applicable laws, platform rules, and third-party terms of service.
 
 ---
